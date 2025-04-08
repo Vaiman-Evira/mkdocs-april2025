@@ -4,5 +4,4 @@ theme: material
 
 nav:
  - Приветствуем!: index.md
- - Что это?: about.md
  - Редактор топологии: topology-editor.md
