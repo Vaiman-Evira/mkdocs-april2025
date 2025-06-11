@@ -1,7 +1,9 @@
-site_name: Hello, World!
-site_description: Homework №4 
+site_name: LU
+site_description: For clients 
 theme: material
 
 nav:
  - Приветствуем!: index.md
+ - Быстрый старт: fast-stsrt.md
+   - Тест 1: hi.md
  - Редактор топологии: topology-editor.md
